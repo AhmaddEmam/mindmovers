@@ -1,0 +1,30 @@
+.main-color{
+    color: #21255d;
+}
+.main-colorr{
+    color: white;
+}
+.hover-colorr{
+    background-color: #f05d59;
+}
+.hover-color:hover{
+    color: #f05d59;
+}
+.social{
+    font-size: 1.5rem;
+}
+.padding-top{
+    padding-top: 3.7rem;
+}
+.padding-bottom{
+    padding-bottom: 2rem;
+}
+.img-padding-bottom{
+    padding-bottom: 3rem;
+}
+.margin-top{
+    margin-top: 2rem;
+}
+.margin-bottom{
+    margin-bottom: 2rem;
+}
