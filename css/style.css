@@ -28,3 +28,13 @@
 .margin-bottom{
     margin-bottom: 2rem;
 }
+
+@media (max-width : 500px){
+    .main-nav{
+        position: static;
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}
